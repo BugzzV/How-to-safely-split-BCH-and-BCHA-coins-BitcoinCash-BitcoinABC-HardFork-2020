@@ -1,4 +1,4 @@
-# How to safely split BCH and BCHA coins. BitcoinCash/BitcoinABC HardFork 2020. Claim Bcha
+# How to safely split BCH and BCHA coins. BitcoinCash/BitcoinABC HardFork 2020. Claim BCHA
 
 <div align="center">
   <img src="https://i.ibb.co/8b6C8qK/Ac-G3cashh-400x400.png" width="80">
