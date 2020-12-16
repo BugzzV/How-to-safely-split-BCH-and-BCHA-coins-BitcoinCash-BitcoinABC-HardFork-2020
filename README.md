@@ -50,7 +50,7 @@ Latest version: v.3.1.1
 | Operating system | Latest version |
 | ------ | ------ |
 | Windows 64 | [Download Win64 3.1.1](https://bchnwallet.org/download/BCHNWallet-win64-3.1.1.zip) |
-| Windows | [Download Win32 3.1.1](https://bchnwallet.org/download/BCHNWallet-win64-3.1.1.zip) |
+| Windows 32 | [Download Win32 3.1.1](https://bchnwallet.org/download/BCHNWallet-win64-3.1.1.zip) |
 | MacOS |   [Download OSX 3.0.11](https://bchnwallet.org/download/BCHNWallet-3.0.11-osx.zip) |
 | Web version | [BCHNwallet 2.3](https://bchnwallet.org) |
 ## License
